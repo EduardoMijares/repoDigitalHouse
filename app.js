@@ -1,1 +1,1 @@
-console.log("mi primera praactica en git");
+console.log("mi segunda practica en git");
